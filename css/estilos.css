@@ -1,0 +1,102 @@
+html {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+header{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-feature-settings: bolder;
+	border-bottom: 10px black solid;
+	display:flex;
+	align-items: center;
+	justify-content:center;
+	font-size: 3.5vw;
+
+}
+
+main{
+	width: 100%;
+	text-align: center;
+}
+#foto{
+	width: 30%;
+	text-align: center;
+
+}
+
+
+
+#caixa{
+	margin: 10px auto 10px auto;
+  	padding: 30px;
+	border: 6px groove rgb(14, 13, 13);
+	background-color: orange;
+	width: 50%;
+	height: 35%;
+	border-radius: 3px;
+
+}
+
+#caixa2{
+	margin: 6px auto 6px auto;
+  	padding: 22px;
+	border: 6px groove rgb(14, 13, 13);
+	background-color: orange;
+	width: 90%;
+	  height: 30%;
+	  border-radius: 3px;
+
+
+}
+
+table, th, td {
+	margin: 6px auto 6px auto;
+	border: 3px solid black;
+	border-radius: 4px;
+	text-align: center;
+	font-size: 1.5vw;
+
+}
+
+#botao{
+	width: 20%;
+	height: 80%;
+	margin: auto;
+	font-size: 1.5vw;
+  color: red
+}
+main{
+
+	margin-top: 55px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4em;
+    text-decoration-line: underline;
+    }
+
+h2 {
+    text-align: center;
+	font-size:4.5vw
+	}
+
+h3 {
+	text-align: center;
+}
+
+h5{
+	font-size: 9px;
+	text-align: center;
+}
+
+
+form{
+	margin: auto;
+	font-size: 1.7vw;
+
+
+}
+body {
+	background-color: orange;
+	font-size: 100%;
+}
